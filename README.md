@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Designing, building, and operating platform systems through hands-on projects<br>👯 Collaborating on platform engineering, infrastructure automation, and deployment workflows<br>🤝 Learning production-grade practices for scalability, availability, and reliability<br>🌱 Studying cloud infrastructure, containers, CI/CD, monitoring, system reliability, and data engineering fundamentals<br>💬 Discussing Linux, Git/GitHub, cloud basics, and platform workflows<br>⚡ Focusing on ownership, consistency, and learning by building real systems 🚀
+🔭 Designing, building, and operating platform systems through hands-on projects<br>👯 Collaborating on platform engineering, infrastructure automation, and deployment workflows<br>🤝Production-grade practices for scalability, availability, and reliability<br>🌱 Cloud infrastructure, containers, CI/CD, monitoring, system reliability<br>💬 Linux, Git/GitHub, cloud and platform workflows<br>⚡ Focusing on ownership, consistency, and learning by building real systems 🚀
 
 
 ## 🌐 Socials:
